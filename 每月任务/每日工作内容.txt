@@ -1,0 +1,9 @@
+3月
+27日  周一
+	Git。 连接  github，oschain
+28号  周二
+	linqpad的使用 、学习 linq
+29号  周三
+	了解wpf
+30号  周四
+	学习wpf   地址：http://www.cnblogs.com/huangxincheng/archive/2012/06/28/2566595.html
